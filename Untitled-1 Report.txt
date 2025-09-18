@@ -1,0 +1,52 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Untitled-1.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 1080 px x 1379 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:
+Montserrat MediumItalic* (not installed)
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Myriad Pro (OTF)
+Futura Bold Italic BT (TrueType)
+Gotham Book (OTF)
+Gotham Bold (OTF)
+Gotham Black (OTF)
+Quickstep Sign (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+D:\NEXT MEDIA WORK\COMMERCIAL WORK\2024\aaaaaaaaa\hd folder\mardi-gras-social-media-posts-template\WhatsApp Image 2025-02-11 at 15.33.52_49b13750.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2408K, 1195 by 688 pixels
+Dimensions: 1738 by 1000.623 points 
+Resolution: 49.505 by 49.505 pixels per inch
